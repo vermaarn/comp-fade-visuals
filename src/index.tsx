@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
-import CompFade from "./CompFade";
+import { CompFade } from "./CompFade";
 import reportWebVitals from "./reportWebVitals";
 
 ReactDOM.render(
